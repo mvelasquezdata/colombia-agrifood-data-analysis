@@ -20,11 +20,11 @@ Tomate National Landed Aerea
 ### 2. Regional Comparison (Top 5 Leaders)
 Comparing production performance across the most relevant departments.
 ![Grouped Bar Chart](3_Landed_aerea_Top_5.png)
-![Grouped Bar Chart](4_Production_Top_5png)
+![Grouped Bar Chart](4_Production_Top_5.png)
 
 ### 3. Municipal Dispersion & Efficiency
 Identifying production outliers and regional clusters.
-![Scatter Plot](chart_scatter.png)
+![Scatter Plot](5_Scatter.png)
 
 ## Tech Stack
 * **Data Wrangling:** Pandas
